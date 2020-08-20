@@ -10,4 +10,4 @@
 
 * Used Amazon's Turicreate's Recommender Algorithm to predict recommendation with user info.
 
-* SVD algorithm reached approximately 0.11 Root Mean Square Error on Item rating prediction, Amazon's TuriCreate Library's Recommender Algorithm reached 0.008 RMSE on Item rating prediction with given featurely engineered user informations which makes it a great recommender model.
+* SVD algorithm reached approximately 0.11 Root Mean Square Error on Item rating prediction, Apple's TuriCreate Library's Recommender Algorithm reached 0.008 RMSE on Item rating prediction with given featurely engineered user informations which makes it a great recommender model.
